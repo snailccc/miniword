@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/ppp.png</file>
+        <file>icon/保存.png</file>
+        <file>icon/撤销.png</file>
+        <file>icon/打开.png</file>
+        <file>icon/新建.png</file>
+        <file>icon/重复.png</file>
+        <file>icon/查找.png</file>
+        <file>icon/复制.png</file>
+        <file>icon/关于.png</file>
+        <file>icon/剪切.png</file>
+        <file>icon/另存为.png</file>
+        <file>icon/全选.png</file>
+        <file>icon/替换.png</file>
+        <file>icon/退出.png</file>
+        <file>icon/粘贴.png</file>
+        <file>icon/向上.png</file>
+        <file>icon/向下.png</file>
+        <file>icon/启动界面.png</file>
+        <file>icon/背景.jpg</file>
+        <file>icon/背景1.png.jpg</file>
+        <file>icon/背景2.png</file>
+        <file>icon/背景3.jpg</file>
+        <file>icon/背景4.jpg</file>
+        <file>icon/背景6.jpg</file>
+        <file>icon/背景7.jpg</file>
+        <file>icon/背景5.jpg</file>
+        <file>icon/统计.png</file>
+        <file>icon/颜色.png</file>
+    </qresource>
+</RCC>
